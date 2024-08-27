@@ -11,11 +11,28 @@
             "id": "74123ca4695e0d17",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Fall 24/Java 3/Java 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c5ca4e87e43abdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TA Notes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 200
   },
   "right": {
     "id": "ad3b85edf2e4c70a",
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TA Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TA Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TA Notes.md"
+              }
             }
           }
         ]
@@ -138,8 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "74123ca4695e0d17",
+  "active": "1c5ca4e87e43abdd",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Fall 24/Java 3/Java 3.md",
+    "TA Notes.md",
+    "Fall 24/Chem/Chem 105 Section 6.md",
+    "Fall 24/Java 3",
+    "Welcome.md",
+    "Fall 24/Chem",
+    "Fall 24"
   ]
 }
