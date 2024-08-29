@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TA Notes.md",
+                "file": "Fall 24/Java 3/Java 3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TA Notes.md",
+                "file": "Fall 24/Java 3/Java 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TA Notes.md",
+                "file": "Fall 24/Java 3/Java 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TA Notes.md"
+                "file": "Fall 24/Java 3/Java 3.md"
               }
             }
           }
@@ -159,11 +158,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c5ca4e87e43abdd",
+  "active": "74123ca4695e0d17",
   "lastOpenFiles": [
+    "Fall 24/Chem/Chem 105 Section 6.md",
     "Fall 24/Java 3/Java 3.md",
     "TA Notes.md",
-    "Fall 24/Chem/Chem 105 Section 6.md",
     "Fall 24/Java 3",
     "Welcome.md",
     "Fall 24/Chem",

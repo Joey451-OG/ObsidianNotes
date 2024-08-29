@@ -75,3 +75,5 @@ $Object$ has two methods:
 	- Called when you try to print an object
 - equals
 	- used in equality checks (think if statements), by default checks that if two objects have the same memory reference. The $String$ method overrides this. 
+
+
