@@ -102,3 +102,52 @@ Classifications of Matter:
 Inter-molecular forces help us understand these classifications. 
 
 Familiarize yourself with the periodic table!
+
+**Temperature Conversions**
+
+$$K = \degree C \ + \ 273.15$$
+$$\degree C = \frac{(\degree F - 32)}{1.8}$$
+$$\degree F = (1.8)\degree C + 32$$
+**Mass Length and Volume**
+
+Remember:
+- $1kg = 1000g$
+- $1g  = 1000mg$
+
+$1\ cm^3 = 1\ ml = 0.001\ L$
+
+**Energy Units**
+![[Pasted image 20240830101418.png]]
+
+**Reliability of Measurements**
+- *Accuracy* refers to how close the measured value is to the actual value
+- *Precision* refers to how close a series of measurements are to one another or how reproducible they are.
+![[Pasted image 20240830101615.png]]
+
+Measurements are:
+- precise if they are consistent with one another
+- accurate only if they are close to the actual value
+
+Scientific measurements are reported so that every digit is certain with the exception of the last digit, which is estimated.
+
+*Random Error* has equal probability of being too high or too low.
+*Systematic error* tends toward being either too high or too low. 
+
+![[Pasted image 20240830102309.png]]
+
+![[Pasted image 20240830102454.png]]
+
+![[Pasted image 20240830103159.png]]
+
+![[Pasted image 20240830103709.png]]
+
+![[Pasted image 20240830103745.png]]
+
+Most chem problems will be unit conversion problems.
+Dimensional analysis is the fractional unit conversion idea.
+
+Units should always be included in calculations; they are multiplied, divided, and canceled like any other algebraic quantity.
+
+![[Pasted image 20240830104540.png]]
+
+![[Pasted image 20240830104552.png]]
