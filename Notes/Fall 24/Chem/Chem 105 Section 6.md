@@ -148,6 +148,24 @@ Dimensional analysis is the fractional unit conversion idea.
 
 Units should always be included in calculations; they are multiplied, divided, and canceled like any other algebraic quantity.
 
+*The Logarithm of a number should have as many decimal places as the number significant figures in the number*
+
+For example using base 10 logarithms, the **log** of $22.5$ ($3$ significant figures) should be reported as $1.352$ ($3$ decimal places).
+
 ![[Pasted image 20240830104540.png]]
 
 ![[Pasted image 20240830104552.png]]
+
+Example conversion problem:
+$$\frac{9255\ cm^3}{1} \times \frac{1\ mL}{1\ cm^3} \times \frac{1\ L}{1000\ mL} \times \frac{1\ gal}{3.7854\ L} = 2.4449...=2.445\ gal$$
+
+**Mole**
+
+A **mole** (mol) of anything contains $6.02214\times 10^{23}$ items.
+- This is generally used with atoms but it could be any item.
+
+The mole is known as **Avogadro's Number**. The value of the mole is equal to the number of atoms in exactly $12$ grams of pure C-12
+
+![[Pasted image 20240904102217.png]]
+
+

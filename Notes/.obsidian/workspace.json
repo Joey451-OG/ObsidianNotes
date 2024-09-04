@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ad3b85edf2e4c70a",
@@ -160,6 +161,7 @@
   },
   "active": "74123ca4695e0d17",
   "lastOpenFiles": [
+    "Pasted image 20240904102217.png",
     "Fall 24/Chem/Pasted image 20240830104552.png",
     "Fall 24/Chem/Chem 105 Section 6.md",
     "Fall 24/Chem/Pasted image 20240830104540.png",
