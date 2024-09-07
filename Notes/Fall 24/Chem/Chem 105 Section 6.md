@@ -168,4 +168,33 @@ The mole is known as **Avogadro's Number**. The value of the mole is equal to th
 
 ![[Pasted image 20240904102217.png]]
 
+# Chapter $2$: The Atom
+An atom is composed of a nucleus and an electron cloud.
 
+- Nucleus is a dense center composed of protons with a + charge and neutrons
+- Electrons are negatively charged and take up the vast majority of the space of the atom. 
+
+The mass of a proton is 1.672622 x e-24g
+The mass of a neutron is 1.674927 e-24g
+The mass of an electron is 9.109384 e-28g
+
+amu (or u) is the atomic mass unit.  The most important number to the identitz of an atom is the number of protons. This is known as the *atomic number* (Z)
+
+Isotopes are elements with a varied number of protons but different number of neutrons. 
+
+Example a neon atom with 10, 11, and 12 neutrons respectivelz.
+
+$$^{20}_{10}Ne\ \ \ ^{21}_{10}Ne\ \ \ ^{22}_{10}Ne$$
+$A$ = mass number
+$Z$ = atomic number
+$X$ = Chemical symbol
+
+$$^A_ZX$$
+Another way of representing the isotope would be to write:
+
+$X$ = Chemical symbol
+$A$ = Mass Number
+$$X-A$$
+B) 52 - 24 = 28 neutrons and 24 protons in the Cr atom.
+C) $^{13}_7C$
+D) 39 - 19 = 20 neutrons and 19 protons in the Potassium isotope.
