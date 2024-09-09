@@ -198,3 +198,47 @@ $$X-A$$
 B) 52 - 24 = 28 neutrons and 24 protons in the Cr atom.
 C) $^{13}_7C$
 D) 39 - 19 = 20 neutrons and 19 protons in the Potassium isotope.
+
+Positively charged ions are called **cations**
+Negatively charged ions are called **anions**
+
+**Mass spectrometry** is a technique that separates particles according to their mass.
+
+![[Pasted image 20240909100931.png]]
+
+**Metallic Character** is how closely an element's properties match the ideal properties of a metal.
+
+Metallic character decreases left to right and increases down the column.
+
+![[Pasted image 20240909101424.png]]
+
+![[Pasted image 20240909101703.png]]
+
+![[Pasted image 20240909101727.png]]
+
+When non-metal combine, they form molecules.
+
+We need to specify the number of each atom by way of a prefix.
+
+| 1   | mono-  | 6   | hexa-  |
+| --- | ------ | --- | ------ |
+| 2   | di-    | 7   | hepta- |
+| 3   | tri-   | 8   | octa-  |
+| 4   | tetra- | 9   | nona-  |
+| 5   | penta- | 10  | deca-  |
+
+![[Pasted image 20240909102117.png]]
+
+![[Pasted image 20240909102207.png]]
+
+**Ionic compounds** are composed of cations (metals) and anions (nonmentals) bound together by electrostatic attraction.
+
+*The basic unit of an ionic compound is the **formula unit**, the smallest, electrically neutral collection of ions*.
+
+**Ionic Compound Formulas**
+- Ionic compounds always contain positive and negative ions
+- The sum of the charges of the positive ions must equal the sum of the charges of the negative ions.
+- The formula of ionic compounds reflects the smallest whole-number ratio of ions.
+![[Pasted image 20240909103334.png]]
+![[Pasted image 20240909103356.png]]
+![[Pasted image 20240909104016.png]]
