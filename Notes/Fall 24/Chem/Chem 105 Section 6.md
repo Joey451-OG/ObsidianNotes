@@ -242,3 +242,7 @@ We need to specify the number of each atom by way of a prefix.
 ![[Pasted image 20240909103334.png]]
 ![[Pasted image 20240909103356.png]]
 ![[Pasted image 20240909104016.png]]
+
+Anytime you see $O_2$, that Oxygen is acting as an oxidant. Often acting in a combustion reaction.
+
+Idk man, just look over the slides before taking the test. Also make sure to add your paper notes here.
