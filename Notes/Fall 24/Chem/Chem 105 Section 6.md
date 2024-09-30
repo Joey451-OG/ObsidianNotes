@@ -246,3 +246,27 @@ We need to specify the number of each atom by way of a prefix.
 Anytime you see $O_2$, that Oxygen is acting as an oxidant. Often acting in a combustion reaction.
 
 Idk man, just look over the slides before taking the test. Also make sure to add your paper notes here.
+
+# Chapter 4: Stoichiometry (?)
+
+*Reaction stoichiometry is the relationship between the amounts of chemicals (in moles).*  This allows us to predict the amounts of product that will form based on the amount of reacting set we have.
+
+The coefficients in the chemical reaction specify these relative amounts in moles.
+
+For example:
+$$2C_8H_{18}\ +\ 25O_2\rightarrow 16CO_2\ +\ 18H_2O$$
+
+From the balanced chemical equations, you can make the following ratios:
+$\frac{2\ mol\ C_8H_{18}}{25\ mol\ O_2}$, $\frac{16\ mol\ CO_2}{18\ mol\ H_2O}$, $\frac{2\ mol\ C_8H_{18}}{18\ mol\ H_2O}$, etc.
+
+The rations can be used to solve problems such as:
+> *If  $22\ mol\ C_8H_{18}$ are burned, how many moles of $CO_2$ are formed?*
+ $$22\ mol\ C_8H_{18}\ \times\ \frac{16\ mol\ CO_2}{2\ mol\ C_8H_{18}}\ =\ 176\ mol\ CO_2 $$
+
+**Limiting Reactants**
+Example: A diner is offering a breakfast special. Each special is $2$ eggs, $2$ pieces of bacon, and $1$ biscuit. If the diner has $12$ eggs, $14$ pieces of bacon, and $7$ biscuits, how many specials can the diner sell? 
+
+Thus the limiting reactant is the:
+- Reaction that limits the amount of product that can be made
+- Reaction that results in the smallest amount of product
+- Other reactions are consider in excess

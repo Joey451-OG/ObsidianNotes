@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "672e790561e8baf0",
+        "id": "aba76b725ac4a0e2",
         "type": "tabs",
         "children": [
           {
-            "id": "e33f826a9b75c516",
+            "id": "74a965e9c9b5dca9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "670685f92734b042",
@@ -146,12 +147,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e33f826a9b75c516",
+  "active": "74a965e9c9b5dca9",
   "lastOpenFiles": [
+    "ACM Stuff.md",
+    "README.md",
+    "Notes/TA Notes.md",
+    "Notes/Fall 24/Chem/Chem 105 Section 6.md",
     "Notes/Fall 24/Java 3/Java 3.md",
     "Notes/Pasted image 20240904174714.png",
-    "Notes/Pasted image 20240909100931.png",
-    "README.md",
-    "Notes/TA Notes.md"
+    "Notes/Pasted image 20240909100931.png"
   ]
 }
