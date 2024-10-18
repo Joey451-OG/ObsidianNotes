@@ -23,3 +23,6 @@ Solving problems in interview settings.
 **E** - Execute
 
 Coding club meets Wed 5:15p
+
+It's a good idea to use recursion when there is a similar smaller solution to a larger problem and it's repeatable.
+

@@ -270,3 +270,90 @@ Thus the limiting reactant is the:
 - Reaction that limits the amount of product that can be made
 - Reaction that results in the smallest amount of product
 - Other reactions are consider in excess
+
+# **-ate & -ite**
+
+| ///**-ate** | ///            | ///**-ite** | ///           |
+| ----------- | -------------- | ----------- | ------------- |
+| Nitrate     | $NO_3\ ^-$     | Nitrite     | $NO_2\ ^-$    |
+| Acetate     | $CH_3COO\ ^-$  | Chlorite    | $ClO_2\ ^-$   |
+| Chlorate    | $ClO_3\ ^-$    | Sulfite     | $SO_3\ ^{2-}$ |
+| Carbonate   | $CO_3\ ^{2-}$  |             |               |
+| Sulfate     | $SO_4\ ^{2-}$  |             |               |
+| Chromate    | $CrO_4\ ^{2-}$ |             |               |
+| Phosphate   | $PO_4\ ^{3-}$  |             |               |
+
+| ///**Misc**                      | ///         |
+| -------------------------------- | ----------- |
+| Cyanide                          | $CN\ ^-$    |
+| Hydroxide                        | $OH\ ^-$    |
+| Hydrogen carbonate / Bicarbonate | $HCO_3\ ^-$ |
+| Hydrogen sulfate / Bisulfate     | $HSO_4\ ^-$ |
+| Ammonium                         | $NH_4\ ^+$  |
+
+Even more!
+
+| ///**-ide** | ///        |
+| ----------- | ---------- |
+| Fluoride    | $F\ ^-$    |
+| Chloride    | $Cl\ ^-$   |
+| Bromide     | $Br\ ^-$   |
+| Iodide      | $I\ ^-$    |
+| Hydroxide   | $OH\ ^-$   |
+| Cyanide     | $CN\ ^-$   |
+| Oxide       | $O\ ^{2-}$ |
+| Sulfide     | $S\ ^{2-}$ |
+| Nitride     | $N\ ^{3-}$ |
+
+**Acids**
+
+| ///**Misc**      | ///      |
+| ---------------- | -------- |
+| Perchloric Acid  | $HClO_4$ |
+| Hydrobromic Acid | $HBr$    |
+
+*Binary acids:* $H\ ^+$ cation and a nonmetal anion.
+
+Remember **OIL RIG**
+![[oil_rig.jpg]]
+	$_{image\ credits:\ Wikipedia\ |\ Oil\ Platform}$
+
+- **O** | oxidation
+- **I**   | is
+- **L**  | loosing $e\ ^-$
+- **R**  | reduction
+- **I**   | is
+- **G** | gaining $e\ ^-$
+
+atomic mass:
+$$\Sigma_{all\ isotopes} (atomic\ mass\ \cdot\ fractional\ abundance)$$
+# Chapter 5
+*Energy* - anything that has the capacity to do work
+*Work* - Work is a force acting over a distance
+- $Work = force\ \times\  distance$
+*Heat* - the flow of energy caused by a difference in temperature
+
+**Heat** and **work** are the two different ways an object can exchange energy with other objects.
+
+*System* - the material or process within which we are studying the energy changes within.
+*Surroundings* - everything else with which the system can exchange energy.
+*Thermodynamics* - the study of energy that is exchanged between the system and the surroundings.
+
+For $q$ heat:
+**Exothermic:**
+$$q_{system} < 0$$
+**Endothermic:**
+$$q_{system} > 0$$
+![[Pasted image 20241007103206.png]]
+
+Change in energy i
+For surroundings doing work on the system. Pressure ($P$) is changing with Volume ($V$), in this case work is negative. Then if the system is doing work on the system. Then $V$ will be negative, thus work ($w$) will be positive.  
+
+$$\Delta E=q + w$$
+$$w = -P \Delta V$$
+($q$) is energy. Normally measured in Joules.
+
+**Stupid dumb dumb atoms that exist in pairs naturally and keep fucking me up:**
+
+$$H_2,\ N_2,\ O_2,\ F_2,\ Cl_2,\ Br_2,\ I_2$$
+![[Pasted image 20241017160839.png]]
