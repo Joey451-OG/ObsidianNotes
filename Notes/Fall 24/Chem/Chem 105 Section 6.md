@@ -357,3 +357,10 @@ $$w = -P \Delta V$$
 
 $$H_2,\ N_2,\ O_2,\ F_2,\ Cl_2,\ Br_2,\ I_2$$
 ![[Pasted image 20241017160839.png]]
+
+**Boyle's Law**:
+When $P$ is in `atm` and $V$ is in some unit volume
+$$P_1V_1 = P_2V_2$$ 
+**Charles' Law**:
+When $V$ is in some unit volume and $T$ is in `K`
+$$\frac{V_1}{T_1} = \frac{V_2}{T_2}$$
