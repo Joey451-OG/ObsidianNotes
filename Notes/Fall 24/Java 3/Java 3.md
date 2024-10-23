@@ -282,11 +282,14 @@ Hierarchy of **Balanced, Complete**, and **Full**: $Balanced\ \rightarrow \ Comp
 ![[Pasted image 20241014142337.png]]
 
 **Tree Traversal**
-
-*In-Order*: Left Child $\rightarrow$ Visit $\rightarrow$ Right Child
 *Pre-Order*: Visit $\rightarrow$ Left Child $\rightarrow$ Right Child
+*In-Order*: Left Child $\rightarrow$ Visit $\rightarrow$ Right Child
 *Post-Order*: Left Child $\rightarrow$ Right Child $\rightarrow$ Visit
 *Level-Order* visit all the nodes on that level. Aka *Breadth First*
+
+Remember : $PIP\ \backslash V$
+**P**re-Order, **I**n-Order, **P**ost-Oder, Line from top left to bottom right **(\)** of **V**isits
+
 
 **Huffman Coding**
 The **Huffman Coding** algorithm is a compression algorithm that uses a *priority queue*.
@@ -302,6 +305,16 @@ Notice that one you build the tree, all the letters are leaves.
 
 By taking the encoded text, you traverse from the root until you hit a leaf, then you print the leaf and start over.
 
+Whenever you hear/see divide, think `log(n)` of some sort.
+
+When sorting words or large things, it may be a good idea to assign them to numerical values before sorting.
+
+**Quick Sort**
+Quick sort is also a recursive algorithm.
+The main idea is to pick a pivot and to swap elements around it then do that recursively.
 
 
+
+Pseudo Code:
+- 
 

@@ -364,3 +364,5 @@ $$P_1V_1 = P_2V_2$$
 **Charles' Law**:
 When $V$ is in some unit volume and $T$ is in `K`
 $$\frac{V_1}{T_1} = \frac{V_2}{T_2}$$
+
+![[Pasted image 20241022153153.png]]
