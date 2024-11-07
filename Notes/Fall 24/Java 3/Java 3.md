@@ -314,7 +314,57 @@ Quick sort is also a recursive algorithm.
 The main idea is to pick a pivot and to swap elements around it then do that recursively.
 
 
+# Chapter 22: Hashing
 
-Pseudo Code:
-- 
+- **Map** - Collection using a **Key-value** pair
+- A **Key** must be:
+	- *Unique*
+	- Only maps to **One Value**
+	- **Many keys** may point to the **Same Value**
 
+Key Value pairs allow for *Divide and Conquer* approach. You can have *One to One* relations or *One to many* relationships.
+
+Two Step Process
+- Transform **key** into an integer value
+- Store the **value** in a **Hash Table**
+
+The underlying Hast storage container is an array. We apply a hashing function to our key value pairs and only store the value. The result is $O(1)$ if the ***function is a Perfect Hashing Function***. 
+
+How large should a hash map be?
+If the data set is know AND PERFECT $\rightarrow$ the size is the size of the dataset
+If it is NOT PERFECT $\rightarrow$ rule of thumb is 150%  the size of the dataset
+If it is UNKNOWN $\rightarrow$
+- Default initial capacity for hash-map is 16
+- use a load factor to determine when to expand (typically expand to double the size)
+- Default load factor is 75%
+
+**Extraction** is when we take only **PART** of an element's value is used to determine the cell
+A **Perfect Hashing Function** is when each possible has yields **a UNIQUE location in the hash table**.
+
+The String class provides a `hasCode()` method.
+
+### Hash Map Methods
+
+```java
+HashMap.put(K key, V value) //Associates the specified value with the specified key in this map
+// returns: V
+
+HashMap.get(Object key) // Returns the value to which the specified key is mapped or null is this map contains no mapping for this key
+// returns: V
+
+HashMap.keySet() // Reurns a Set view of the keys contained in this map
+// returns: Set<K>
+
+HashMap.entrySet() // Reurns a Set view of the mappings contained in this map
+// returns: Set<Map.Entry<K, V>>
+
+```
+
+A **Collision** is when a hashing functions yeilds the same index for different inputs.
+
+One method for resolving collisions is the **Chaining Method**. Our has table could be an array of Linked Lists. When a collision occurs, simply add the value to the associated linked list.
+
+Another method for resolving collisions is **Open Addressing**.
+
+One type of Open Addressing is called **Linear Probing**:
+When `hashcode(key - value) % p` is already occupied then try `hashcode((key - value) + 1) % p` and try again, adding `1` until you find an open space. However, this is venerable to *clustering*.

@@ -366,3 +366,7 @@ When $V$ is in some unit volume and $T$ is in `K`
 $$\frac{V_1}{T_1} = \frac{V_2}{T_2}$$
 
 ![[Pasted image 20241022153153.png]]
+
+Hydrogen Energy Transitions:
+$n$ is the *Quantum Number* is the principle energy number. 
+![[Pasted image 20241104103618.png]]

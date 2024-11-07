@@ -41,3 +41,15 @@ This started because of three main issues:
 - Knowledge Acqusition Bottleneck
 - Scalability Issues
 - High Maintenance Costs
+
+### **No meeting notes**
+
+# 2024-10-28
+Slightly more people showed up than last week. However, most people did not arrive at 5:30. Maybe we could push the meeting time to six o'clock or delay the start of the meeting for a few minutes past 5:30.
+
+Please generally liked the food and we ended up with a few leftovers. However, I am in the opinion that it's not enough to reduce our order sizes.
+
+After the meeting, we found out we have ice leftover in the fridge from last week. Alongside the ice we bought today, we will not need to buy ice for a few weeks.
+
+Room 234 worked out fine. It was not too full, however, we are reaching it's limit. If we were to have more people show up, it may get over crowded. Since we generally do not care for 235 despite it's larger size, we should consider finding a new space if 234 becomes an issue.
+

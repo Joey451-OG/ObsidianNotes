@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Fall 24/Java 3/Java 3.md",
+                "file": "Notes/Fall 24/Chem/Chem 105 Section 6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java 3"
+              "title": "Chem 105 Section 6"
+            }
+          },
+          {
+            "id": "0425a26f7223f346",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
             }
           }
         ]
@@ -77,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "670685f92734b042",
@@ -165,22 +176,22 @@
   },
   "active": "bede363325f19dd3",
   "lastOpenFiles": [
+    "Notes/Fall 24/Java 3/Java 3.md",
+    "Notes/Coding Club Notes.md",
+    "Notes/Fall 24/Chem/Chem 105 Section 6.md",
+    "Pasted image 20241104103618.png",
+    "ACM Stuff.md",
     "Notes/Images/Pasted image 20241016141359.png",
     "Notes/Images/Pasted image 20241016141340.png",
     "Pasted image 20241016141529.png",
     "Pasted image 20241017160839.png",
     "Pasted image 20241022153153.png",
-    "Notes/Fall 24/Chem/Chem 105 Section 6.md",
-    "Notes/Fall 24/Java 3/Java 3.md",
     "Notes/Fall 24/Chem/images/Pasted image 20240830101418.png",
     "Notes/Fall 24/Chem/images",
-    "Notes/Coding Club Notes.md",
     "Notes/TA Notes.md",
-    "ACM Stuff.md",
     "Notes/Images/Pasted image 20241014142337.png",
     "Notes/Images/Pasted image 20241014141947.png",
     "Notes/Images/oil_rig.jpg",
-    "Notes/Images/Pasted image 20241007103206.png",
     "README.md"
   ]
 }
