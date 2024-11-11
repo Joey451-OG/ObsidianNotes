@@ -368,3 +368,16 @@ Another method for resolving collisions is **Open Addressing**.
 
 One type of Open Addressing is called **Linear Probing**:
 When `hashcode(key - value) % p` is already occupied then try `hashcode((key - value) + 1) % p` and try again, adding `1` until you find an open space. However, this is venerable to *clustering*.
+
+A **Load Factor ($\lambda$)** is a percent value of the hash table, that when reached, expands the size of the hash table. The *default load factor in Java is: $0.75$ or 75%*
+
+The **default hash table size is: $16$**
+
+## Binary Search Trees (BST)
+![[Pasted image 20241111141539.png]]
+
+*Always start at the root when adding values to a tree!*
+
+Binary search (with at BST) is time complexity $O(log(n))$
+
+![[Pasted image 20241111144616.png]]

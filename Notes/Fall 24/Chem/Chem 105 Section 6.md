@@ -370,3 +370,5 @@ $$\frac{V_1}{T_1} = \frac{V_2}{T_2}$$
 Hydrogen Energy Transitions:
 $n$ is the *Quantum Number* is the principle energy number. 
 ![[Pasted image 20241104103618.png]]
+![[Pasted image 20241108160242.png]]
+![[Pasted image 20241108161731.png]]![[Pasted image 20241108162328.png]]
