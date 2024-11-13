@@ -381,3 +381,17 @@ The **default hash table size is: $16$**
 Binary search (with at BST) is time complexity $O(log(n))$
 
 ![[Pasted image 20241111144616.png]]
+
+A **Degenerate Tree** is a unbalanced binary tree. This means the worst case search is linear. To solve this issue we can rotate the tree.
+
+For **Right Rotation**:
+- Make the Left Child the new root
+- Make the OLD root the right child
+- Make the Old left child's Right child sub tree the new right child's left child sub tree
+For **Left Rotation** it is the opposite.
+- Make the Right Child the new root
+- Make the OLD root the new root's left child
+- Make the Old right child's left child sub tree the new left's child right child sub tree.
+
+An **AVL Tree** is a tree in which every time to add an element you check if it's balanced, if it's not balanced, you rotate left or right. This is found with the balance factor which is:
+$$balance factor = (height\ of\ right) - (height\ of\ left)$$
