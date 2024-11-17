@@ -372,3 +372,12 @@ $n$ is the *Quantum Number* is the principle energy number.
 ![[Pasted image 20241104103618.png]]
 ![[Pasted image 20241108160242.png]]
 ![[Pasted image 20241108161731.png]]![[Pasted image 20241108162328.png]]
+![[Pasted image 20241113155507.png]]
+$$Formal\ Charge$$
+$$(number\ of\ valence\ e^-) - [(number\ of\ nonbonding\ e^-) + (\frac{1}{2} * number\ of\ bonding\ e^-)]$$
+
+$$or$$
+
+$$(number\ of\ valence\ e^-) - [(number\ of\ nonbonding\ e^-) + (number\ of\ bonds)]$$
+
+![[Pasted image 20241115093640.png]]![[Pasted image 20241115093809.png]]
