@@ -395,3 +395,27 @@ For **Left Rotation** it is the opposite.
 
 An **AVL Tree** is a tree in which every time to add an element you check if it's balanced, if it's not balanced, you rotate left or right. This is found with the balance factor which is:
 $$balance factor = (height\ of\ right) - (height\ of\ left)$$
+## Heaps
+Heaps are **binary trees** that are
+- Complete
+	- All leaves at level $h$ or $h - 1$
+	- All leaves are left most
+- *Min Heap*: Each node is **less than or equal** to its' children
+- *Max Heap*: Each node is **greater than or equal** to its' children.
+
+Because a heap is *complete* insert **left most** by either inserting:
+1. Left most leaf, from the left at level $h$
+2. Left most leaf at new level $h + 1$
+
+Once the node is inserted, reorder the tree (heapify) to determine the node's position
+
+If the node is smaller (min heap)
+- Swap node with parent node
+
+If node is larger (max heap)
+- Swap node with parent node
+
+Note we really shouldn't be saying "node" here. Nothing about the actual node object is swap except for its' values.
+
+![[Pasted image 20241118144627.png]]
+![[Pasted image 20241118144639.png]]
