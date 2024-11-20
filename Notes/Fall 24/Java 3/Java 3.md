@@ -419,3 +419,13 @@ Note we really shouldn't be saying "node" here. Nothing about the actual node ob
 
 ![[Pasted image 20241118144627.png]]
 ![[Pasted image 20241118144639.png]]
+
+## Heap Sort
+
+![[Pasted image 20241120142527.png]]
+
+![[Pasted image 20241120142721.png]]
+![[Pasted image 20241120142734.png]]
+![[Pasted image 20241120142747.png]]
+
+Then repeat until the heap is empty.
