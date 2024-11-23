@@ -33,3 +33,6 @@ First Steps of Hackathon Planning:
 
 
 Next Meeting: Next Week November 22th, 2024. 4p.
+
+# 2024 - 11 - 22
+v

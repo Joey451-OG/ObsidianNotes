@@ -381,3 +381,12 @@ $$or$$
 $$(number\ of\ valence\ e^-) - [(number\ of\ nonbonding\ e^-) + (number\ of\ bonds)]$$
 
 ![[Pasted image 20241115093640.png]]![[Pasted image 20241115093809.png]]
+Try to attend all the sections for the ACS review as possible.
+Final exam: Dec 13th. 70 Question, 2hrs. Less than 2 mins per question.
+
+In general, the more electrons two atoms share, the stronger the covalent bond.
+In general, the shorter the covalent bond, the stronger the bond.
+
+Bond breaking is endothermic and bond making is exothermic.
+
+Electron groups around the central atom will be most stable when they are as far apart as possible, this is the basis for VSEPR Theory.  Because electrons are negatively charged. 
