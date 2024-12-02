@@ -390,3 +390,17 @@ In general, the shorter the covalent bond, the stronger the bond.
 Bond breaking is endothermic and bond making is exothermic.
 
 Electron groups around the central atom will be most stable when they are as far apart as possible, this is the basis for VSEPR Theory.  Because electrons are negatively charged. 
+
+An *Electron Group* could be referring to any type of bond, or a lone pair.
+
+Relative sizes of repulsive force interaction are as follows:
+Lone pair to Lone Pair > Lone pair to Bonding Pair > Bonding Pair to Bonding Pair
+
+Lone pairs generally go into equatorial positions.
+
+Using VSERP To Predict Molecular Geometries
+1. Draw the Lewis Structure
+2. Determint the number of electron groups around the central atom
+3. Classifiy each electron group as bonding or lone pair and count each type
+4. Determine the shape and bond angles or apporximate bond angles
+
