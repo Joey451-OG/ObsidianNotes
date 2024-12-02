@@ -328,7 +328,7 @@ Two Step Process
 - Transform **key** into an integer value
 - Store the **value** in a **Hash Table**
 
-The underlying Hast storage container is an array. We apply a hashing function to our key value pairs and only store the value. The result is $O(1)$ if the ***function is a Perfect Hashing Function***. 
+The underlying Hash storage container is an array. We apply a hashing function to our key value pairs and only store the value. The result is $O(1)$ if the ***function is a Perfect Hashing Function***. 
 
 How large should a hash map be?
 If the data set is know AND PERFECT $\rightarrow$ the size is the size of the dataset
@@ -387,7 +387,7 @@ A **Degenerate Tree** is a unbalanced binary tree. This means the worst case sea
 For **Right Rotation**:
 - Make the Left Child the new root
 - Make the OLD root the right child
-- Make the Old left child's Right child sub tree the new right child's left child sub tree
+- Make the Old left child's Right child sub tree the new right child's left child sub tree (OLD LEFT RIGHT, NEW RIGHT LEFT)
 For **Left Rotation** it is the opposite.
 - Make the Right Child the new root
 - Make the OLD root the new root's left child
@@ -415,7 +415,7 @@ If the node is smaller (min heap)
 If node is larger (max heap)
 - Swap node with parent node
 
-Note we really shouldn't be saying "node" here. Nothing about the actual node object is swap except for its' values.
+Note we really shouldn't be saying "node" here. Nothing about the actual node object is swapped except for its' values.
 
 ![[Pasted image 20241118144627.png]]
 ![[Pasted image 20241118144639.png]]
