@@ -55,16 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Fall 24/Java 3/Java 3.md",
+                "file": "Notes/Fall 24/Chem/Chem 105 Section 6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java 3"
+              "title": "Chem 105 Section 6"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -205,14 +205,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a86b988bf9300bb9",
+  "active": "2a5fd4302ae9d651",
   "lastOpenFiles": [
+    "Pasted image 20241205203804.png",
+    "Pasted image 20241111141539.png",
+    "Notes/Fall 24/Chem/Chem 105 Section 6.md",
+    "Notes/Coding Club Notes.md",
+    "Notes/TA Notes.md",
     "Notes/Fall 24/Java 3/Java 3.md",
     "Hackathon Random Notes.md",
     "ACM Stuff.md",
-    "Notes/TA Notes.md",
-    "Notes/Coding Club Notes.md",
-    "Notes/Fall 24/Chem/Chem 105 Section 6.md",
     "Pasted image 20241120142747.png",
     "Pasted image 20241120142734.png",
     "Pasted image 20241120142721.png",
@@ -223,7 +225,6 @@
     "Pasted image 20241115093809.png",
     "Pasted image 20241115093640.png",
     "Pasted image 20241113155507.png",
-    "Pasted image 20241111144616.png",
     "Notes/Fall 24/Chem/images"
   ]
 }

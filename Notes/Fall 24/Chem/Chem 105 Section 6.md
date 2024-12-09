@@ -404,3 +404,4 @@ Using VSERP To Predict Molecular Geometries
 3. Classifiy each electron group as bonding or lone pair and count each type
 4. Determine the shape and bond angles or apporximate bond angles
 
+![[Pasted image 20241205203804.png]]
